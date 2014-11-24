@@ -14,6 +14,8 @@ and open the template in the editor.
         // put your code here
         
         // proyecto en remoto prueba clase 2
+        
+        
         ?>
     </body>
 </html>
