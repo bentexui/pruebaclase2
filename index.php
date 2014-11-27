@@ -15,6 +15,7 @@ and open the template in the editor.
         
         // proyecto en remoto prueba clase 2
         
+        //hola profe
         
         ?>
     </body>
