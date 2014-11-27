@@ -11,11 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
-        
-        // proyecto en remoto prueba clase 2
-        
-        
+       echo "Hola Alberto soy Domingo";
         ?>
     </body>
 </html>
